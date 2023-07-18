@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "test-report-limmer-tural.ipynb"
+  },
+  "python": {
+    "version": "3.10.10",
+    "package_manager": {
+      "name": "pip",
+      "version": "23.1.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "test-report-limmer-tural.ipynb": {
+      "checksum": "64352b6fe932f240a24dfbe1526f4b53"
+    },
+    "requirements.txt": {
+      "checksum": "e75070b8b665ffb3b7f08d15e68c37ee"
+    }
+  }
+}
